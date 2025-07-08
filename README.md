@@ -22,3 +22,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehadebnath678&show_icons=true&locale=en" alt="snehadebnath678" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehadebnath678&" alt="snehadebnath678" /></p>
+
+<h2 align="left"> <a href="https://leetcode.com/u/Sneha_Debnath_/" > leetcode status: </a>  </h2>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sneha_Debnath)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+</p>
+
+<h3 align="left">Github Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SnehaDebnath678&show_icons=true&locale=en&layout=compact" alt="SnehaDebnath678" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SnehaDebnath678&show_icons=true&locale=en" alt="SnehaDebnath678" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaDebnath678&" alt="SnehaDebnath678" /></p>
+
